@@ -71,8 +71,6 @@ Cumulative Profit
 
 
 Project Structure
-
-west-ham-betting-model/
 ├── step1_data_gathering.py       # Fetches match data
 ├── step2_preprocessing.py        # Cleans and engineers features
 ├── step3_modeling.py             # Trains the random forest
@@ -87,7 +85,6 @@ west-ham-betting-model/
 ├── wins_losses_trend.png         # Visualization 2
 ├── profit_trend.png              # Visualization 3
 └── README.md                     # This file
-
 
 Results
 Accuracy: 89% (based on simulated data)
