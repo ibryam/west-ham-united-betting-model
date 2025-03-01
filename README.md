@@ -59,12 +59,14 @@ Confusion Matrix
 Cumulative Wins and Losses
 
 
-![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
+![image](https://github.com/user-attachments/assets/66c53441-5b31-42ca-9d8e-62605c4e0f7c)
+
 
 Cumulative Profit
 
 
-![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
+![image](https://github.com/user-attachments/assets/00d71224-4e1a-436a-9b8b-13b5c9e5fef5)
+
 
 Project Structure
 
