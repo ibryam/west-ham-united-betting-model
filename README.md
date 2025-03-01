@@ -52,12 +52,18 @@ Visualizations: Check confusion_matrix.png, wins_losses_trend.png, and profit_tr
 Visualizations
 
 Confusion Matrix
+
+
 ![image](https://github.com/user-attachments/assets/d39fefb5-3cf4-46f6-ad46-3c86f934abb1)
 
 Cumulative Wins and Losses
+
+
 ![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
 
 Cumulative Profit
+
+
 ![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
 
 Project Structure
