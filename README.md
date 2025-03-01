@@ -49,6 +49,17 @@ Usage
 Live Predictions: Start the Flask app and query http://localhost:5000/predict for real-time win probabilities.
 Visualizations: Check confusion_matrix.png, wins_losses_trend.png, and profit_trend.png.
 
+Visualizations
+
+Confusion Matrix
+![image](https://github.com/user-attachments/assets/d39fefb5-3cf4-46f6-ad46-3c86f934abb1)
+
+Cumulative Wins and Losses
+![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
+
+Cumulative Profit
+![image](https://github.com/user-attachments/assets/5654cad0-3bb9-47e5-8a29-2d1486a9f78d)
+
 Project Structure
 
 west-ham-united-betting-model/
@@ -66,6 +77,7 @@ west-ham-united-betting-model/
 ├── wins_losses_trend.png         # Visualization 2
 ├── profit_trend.png              # Visualization 3
 └── README.md                     # This file
+
 
 
 Results
