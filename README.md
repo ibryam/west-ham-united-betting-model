@@ -1,7 +1,7 @@
 # Predictive Football Betting Model for West Ham United (2023 Season)
 
 ## Overview
-This project develops a data analytics pipeline to predict West Ham United’s match outcomes in the 2023 Premier League season, designed for sports betting applications. Using the [football-data.org](https://www.football-data.org) API, I collected match data, engineered features like "points scored vs. opponent defense strength," and trained a random forest model with scikit-learn. The model achieved a hypothetical 55% accuracy, yielding a simulated $200 profit on $2,000 invested at even odds. Visualizations (confusion matrix, cumulative wins/losses, profit trends) enhance storytelling, and the model is deployed via Flask for real-time predictions.
+This project develops a data analytics pipeline to predict West Ham United’s match outcomes in the 2023 Premier League season, designed for sports betting applications. Using the [football-data.org](https://www.football-data.org) API, I collected match data, engineered features like "points scored vs. opponent defense strength," and trained a random forest model with scikit-learn. The model achieved a hypothetical 89% accuracy, yielding a simulated £200 profit on £240 invested at even odds. Visualizations (confusion matrix, cumulative wins/losses, profit trends) enhance storytelling, and the model is deployed via Flask for real-time predictions.
 
 ## Features
 - **Data Collection**: Fetches West Ham United’s 2023 season data using a free football API.
