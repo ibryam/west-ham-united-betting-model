@@ -72,25 +72,45 @@ Cumulative Profit
 
 Project Structure
 ├── step1_data_gathering.py       # Fetches match data
+
 ├── step2_preprocessing.py        # Cleans and engineers features
+
 ├── step3_modeling.py             # Trains the random forest
+
 ├── step4_evaluation.py           # Backtests and visualizes
+
 ├── step5_deployment.py           # Flask app for live predictions
+
 ├── requirements.txt              # Dependencies
+
 ├── west_ham_2023_raw.csv         # Raw data
+
 ├── west_ham_2023_features.csv    # Features
+
 ├── west_ham_2023_target.csv      # Targets
+
 ├── west_ham_rf_model.pkl         # Trained model
+
 ├── confusion_matrix.png          # Visualization 1
+
 ├── wins_losses_trend.png         # Visualization 2
+
 ├── profit_trend.png              # Visualization 3
+
 └── README.md                     # This file
 
 Results
+
 Accuracy: 89% (based on simulated data)
+
 Profit: $200 on £240 invested (assuming £20 bets at even odds)
+
 Key Insight: Model performs above random guessing (50%), suggesting betting potential.
 
+
 Contact
+
 GitHub: ibryam
+
 Email: ibryamfibryam@gmail.com
+
