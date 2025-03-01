@@ -71,6 +71,7 @@ Cumulative Profit
 
 
 Project Structure
+
 ├── step1_data_gathering.py       # Fetches match data
 
 ├── step2_preprocessing.py        # Cleans and engineers features
