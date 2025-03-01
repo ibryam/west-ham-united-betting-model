@@ -42,7 +42,7 @@ Usage
    Backtesting: Run step4_evaluation.py to see accuracy, profit, and generate plots:
    Accuracy: 0.89
    Games: 37, Bets Placed: 12, Wins: 11, Losses: 1
-   Total Profit: $200.00
+   Total Profit: £200.00
 
 Live Predictions: Start the Flask app and query http://localhost:5000/predict for real-time win probabilities.
 Visualizations: Check confusion_matrix.png, wins_losses_trend.png, and profit_trend.png.
