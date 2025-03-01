@@ -68,9 +68,11 @@ Cumulative Profit
 ![image](https://github.com/user-attachments/assets/00d71224-4e1a-436a-9b8b-13b5c9e5fef5)
 
 
+
+
 Project Structure
 
-west-ham-united-betting-model/
+west-ham-betting-model/
 ├── step1_data_gathering.py       # Fetches match data
 ├── step2_preprocessing.py        # Cleans and engineers features
 ├── step3_modeling.py             # Trains the random forest
@@ -85,7 +87,6 @@ west-ham-united-betting-model/
 ├── wins_losses_trend.png         # Visualization 2
 ├── profit_trend.png              # Visualization 3
 └── README.md                     # This file
-
 
 
 Results
