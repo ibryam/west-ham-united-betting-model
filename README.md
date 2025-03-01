@@ -1,5 +1,3 @@
-# west-ham-united-betting-model
-
 # Predictive Football Betting Model for West Ham United (2023 Season)
 
 ## Overview
